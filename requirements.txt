@@ -9,10 +9,19 @@ pillow
 tqdm
 kagglehub
 
-pinecone-client==3.1.0
+pinecone-client>=5.0.0
 pinecone-datasets==0.7.0
 sentence-transformers==2.2.2
 pinecone-notebooks==0.1.1
 huggingface-hub==0.25.2
 
 python-dotenv
+
+langchain-community
+langchain-experimental
+langchain-pinecone==0.2.0
+langchain-openai==0.2.2
+langchain-ollama
+langchain-huggingface
+langchain-text-splitters
+pinecone-notebooks==0.1.1
