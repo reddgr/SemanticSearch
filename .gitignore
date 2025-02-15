@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Git clones
+pinecone_datasets_reddgr/
+
 # Web scraping
 *.download
 *.css
